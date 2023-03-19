@@ -20,8 +20,16 @@
 - Java Servlets and JSP Pages
 - MySQL and Microsoft SQL Server Database
 - Using Git and Github for Version Control
-- HTMl, CSS and JavaScript
+- HTML, CSS and JavaScript
 
-## Some Projects I am Working on ⚒
-#### Program Zero: 
-A website which offers free Programming Books and Guidance for Beginners related to Available Certifications, RoadMaps, Self Improvement etc. Completely Free of Cost. For Preview: [Click Here](https://programzero.netlify.app)
+## Projects I am Working on 💻
+**Program Zero:** A website which offers free Programming Books and Guidance for Beginners related to Available Certifications, RoadMaps, Self Improvement etc.
+
+#### Features of this Website ♨
+- Completely Responsive
+- Everything Free of Cost
+- Easy to Use for Learning
+- No Login Required to Access
+- Download Free Books
+
+**For Preview of the Website** [Click Here](https://programzero.netlify.app)
