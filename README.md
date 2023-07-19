@@ -12,5 +12,4 @@
 - Google Colab
 - Git and Github
 
-And much more...
-Do check out my Projects!
+### Do check out my Projects 📃
