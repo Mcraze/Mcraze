@@ -1,11 +1,4 @@
-## Hey There, I am Mitesh Adelkar 🤗
-
-### Personal Information 😄
-- 🎓 BSc-IT Student: Graduating in 2023
-- 🗳 Final Year Project: Online Voting System
-- 💻 Learning Power BI and MySQL
-- 📚 I’m looking forward to learn Tableau, Python etc
-- 🎰 In Search for Free Data Analysis and Data Science Courses
+## Hey There, I am Mitesh Adelkar 😄
 
 ### Computer Skills 🖥
 - Microsoft Office Suite
@@ -15,9 +8,8 @@
 - Python for Data Analysis
 - MySQL Workbench
 - Microsoft SQL Server
+- Postgre SQL
+- Google Colab
 - Git and Github
 
-### Github Stats ⚒
-![](https://github-readme-stats.vercel.app/api?username=mcraze&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-&nbsp;&nbsp;
-![](https://github-readme-streak-stats.herokuapp.com/?user=mcraze&theme=dark&hide_border=false)
+### Do check out my Projects 📃
