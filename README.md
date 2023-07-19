@@ -1,4 +1,4 @@
-## Hey There, I am Mitesh Adelkar 🤗
+## Hey There, I am Mitesh Adelkar 😄
 
 ### Computer Skills 🖥
 - Microsoft Office Suite
@@ -13,3 +13,4 @@
 - Git and Github
 
 And much more...
+Do check out my Projects!
