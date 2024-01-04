@@ -1,15 +1,11 @@
 ## Hey There, I am Mitesh Adelkar 😄
 
-### Computer Skills 🖥
-- Microsoft Office Suite
-- Microsoft Excel
-- Power BI Desktop
-- Tableau Public
-- Python for Data Analysis
-- MySQL Workbench
-- Microsoft SQL Server
-- Postgre SQL
-- Google Colab
-- Git and Github
-
-### Do check out my Projects 📃
+### Technical Skills 🖥
+-	Languages: HTML 5, CSS 3, JavaScript
+-	Version Control: Git, GitHub for collaboration
+-	Hosting Platforms: Netlify, GitHub Pages
+-	Frameworks: Bootstrap, Tailwind CSS
+-	Libraries: Swiper JS, Tilt JS, React JS
+-	Databases: MySQL, Microsoft SQL Server
+-	Development Environment: Visual Studio Code
+-	Office Tools: Microsoft Word, PowerPoint, Excel
