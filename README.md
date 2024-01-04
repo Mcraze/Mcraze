@@ -1,11 +1,19 @@
-## Hey There, I am Mitesh Adelkar 😄
+## Hey 👋, I'm Mitesh Adelkar!  
+  
 
-### Technical Skills 🖥
--	Languages: HTML 5, CSS 3, JavaScript
--	Version Control: Git, GitHub for collaboration
--	Hosting Platforms: Netlify, GitHub Pages
--	Frameworks: Bootstrap, Tailwind CSS
--	Libraries: Swiper JS, Tilt JS, React JS
--	Databases: MySQL, Microsoft SQL Server
--	Development Environment: Visual Studio Code
--	Office Tools: Microsoft Word, PowerPoint, Excel
+
+
+### Glad to see you here!  
+As a Front-End Developer, I possess an impressive arsenal of skills in HTML, CSS, JavaScript, React, Tailwind etc. I excel in designing and maintaining responsive websites that offer a smooth user experience. My expertise lies in crafting dynamic, engaging interfaces through writing clean and optimized code and utilizing cutting-edge development tools and techniques. I am also a team player who thrives in collaborating with cross-functional teams to produce outstanding web applications.  
+  
+
+<br/>  
+
+
+## Languages and Tools  
+
+<div align="center">
+  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,bootstrap,git,github,mysql,vscode)](https://skillicons.dev)
+  
+</div>
