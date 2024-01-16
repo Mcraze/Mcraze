@@ -21,3 +21,5 @@ As a Front-End Developer, I possess an impressive arsenal of skills in HTML, CSS
 
 #### 🪙 Crypto Kingdom [(Check Demo)](https://kingdom-crypto.netlify.app/)
 ![Crypto Kingdom](https://github.com/Mcraze/Mcraze/assets/84672998/0452c20a-eee0-4af6-ba5b-2f0cadf4c58e)
+
+#### Note: Most of the Repositories are private. Do contact me if there are any issues.
