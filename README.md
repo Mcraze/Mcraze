@@ -8,6 +8,11 @@ As a Front-End Developer, I possess an impressive arsenal of skills in HTML, CSS
 ### My Skills and Expertise 💻
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,bootstrap,git,github,mysql,vscode)](https://skillicons.dev)
 
+### Social Links 📲
+<a href='https://www.linkedin.com/in/mitesh23/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2&color=0a66c2'/></a>
+&nbsp;
+<a href='https://mitesh-adelkar.netlify.app/' target="_blank"><img alt='peerlist' src='https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=peerlist&logoColor=329e35&labelColor=FFFFFF&color=FFFFFF'/></a>
+
 ### My Projects ⚒️
 
 #### 👨🏻 My Portfolio Website [(Visit Portfolio)](https://mitesh-adelkar.netlify.app/)
