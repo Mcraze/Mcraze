@@ -6,7 +6,7 @@ As a Front-End Developer, I possess an impressive arsenal of skills in HTML, CSS
 </div>
 
 ### My Skills and Expertise 💻
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,bootstrap,git,github,mysql,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,tailwind,sass,bootstrap,git,github,vscode,wordpress)](https://skillicons.dev)
 
 ### Social Links 📲
 <a href='https://www.linkedin.com/in/mitesh23/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=inspire&logoColor=white'/></a>
