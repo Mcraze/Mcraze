@@ -2,7 +2,7 @@
 
 ### A little About me 😊
 <div>
-As a Front-End Developer, I possess an impressive arsenal of skills in HTML, CSS, JavaScript, React, Tailwind etc. I excel in designing and maintaining responsive websites that offer a smooth user experience. My expertise lies in crafting dynamic, engaging interfaces through writing clean and optimized code and utilizing cutting-edge development tools and techniques. I am also a team player who thrives in collaborating with cross-functional teams to produce outstanding web applications.
+Frontend Developer with 1.5 years of experience building responsive user interfaces using React JS, HTML, CSS and JavaScript. Skilled in translating Figma designs into functional layouts, optimizing performance, and writing clean, maintainable code. Experienced in team collaboration and leading frontend projects.
 </div>
 
 ### My Skills and Expertise 💻
