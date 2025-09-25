@@ -22,11 +22,14 @@ React JS | Tailwind CSS | Performance Optimization | Responsive UI | Cross-Brows
 - Led frontend development for 5+ live projects — created project estimates, set timelines, mentored 2 junior developers through code review, communicated with clients, and ensured on-time product delivery.
 
 ### Social Links 📲
-<a href='https://www.linkedin.com/in/mitesh23/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=inspire&logoColor=white'/></a>
-&nbsp;
+
 <a href='https://mitesh-adelkar.netlify.app/' target="_blank"><img alt='peerlist' src='https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=peerlist&logoColor=329e35&labelColor=FFFFFF&color=FFFFFF'/></a>
 &nbsp;
-<a href='https://mitesh-adelkar.netlify.app/' target="_blank"><img alt='peerlist' src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'/></a>
+<a href='https://www.linkedin.com/in/mitesh23/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=inspire&logoColor=white'/></a>
+&nbsp;
+<a href="https://x.com/miteshadelkar/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=333&color=333"/></a>
+&nbsp;
+<a href='https://www.instagram.com/mitesh.adelkar/' target="_blank"><img alt='instagram' src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'/></a>
 
 ### My Projects ⚒️
 
