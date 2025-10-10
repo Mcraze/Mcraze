@@ -1,4 +1,4 @@
-## Hey There, I'm Mitesh Adelkar!
+# Hey There, I'm Mitesh Adelkar!
 
 ### A little About me 😊
 <div>
