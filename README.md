@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="L6GwcIDsJSHpB21B-GCrs-46l80Ohbr4hzmcVijsaLA" />
-
 # Hey There, I'm Mitesh Adelkar!
 
 ### A little About me 😊
